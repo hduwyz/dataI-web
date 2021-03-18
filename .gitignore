@@ -1,0 +1,11 @@
+/datai-executor/target/
+/datai-executor/datax-executor.iml
+/datai-core/datai-core.iml
+/datai-core/target/
+/datai-admin/datai-admin.iml
+/datai-admin/target/
+/.idea/
+/datai-rpc/datax-rpc.iml
+/datai-rpc/target/
+/logs/
+.iml

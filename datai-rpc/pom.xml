@@ -33,9 +33,7 @@
             <artifactId>hessian</artifactId>
             <version>${hessian.version}</version>
         </dependency>
-
         <!-- ********************** base ********************** -->
-
         <!-- slf4j -->
         <dependency>
             <groupId>org.slf4j</groupId>
